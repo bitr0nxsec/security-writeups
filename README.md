@@ -4,11 +4,7 @@ A collection of my cybersecurity writeups, notes, and vulnerability research.
 
 ## Current Writeups
 
-- **business-logic-loyalty**
-  - Business logic vulnerability involving loyalty/reward point validation flaws.
 
-- **private-saas-assessment**
-  - Informal security assessment of a private AI-based SaaS application.
 
 ## Topics
 
