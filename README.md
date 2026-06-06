@@ -15,8 +15,9 @@ A collection of my cybersecurity writeups, notes, and vulnerability research.
 - General Pentesting Notes
 
 ---
-> **Note on Documentation:** I perform all manual testing, bug discovery, and risk analysis myself. Because I am 18 and still learning how to format industry-standard, formal security reports, I currently use an LLM to help structure my raw technical notes into clean markdown. As my technical writing skills grow, I will transition to fully self-authored documentation.
+> **Note on Documentation:** I perform all manual testing, bug discovery, and risk analysis myself. Because I am still learning how to format industry standard, formal security reports, I currently use an AI to help structure my raw technical notes into clean markdown. As my technical writing skills grow, I will transition to fully self authored documentation.
 
 ---
 
 > All testing was performed ethically and with permission where applicable.
+---
