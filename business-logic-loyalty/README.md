@@ -1,5 +1,4 @@
-# Business logic loyalty
-Writeups and notes related to cybersecurity, web security, and business logic vulnerabilities.
+
 
 
 # Business Logic Vulnerability – Loyalty Point Validation Flaw
