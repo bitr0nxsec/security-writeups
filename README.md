@@ -2,7 +2,6 @@
 
 A collection of my cybersecurity writeups, notes, and vulnerability research.
 
-## Current Writeups
 
 
 
