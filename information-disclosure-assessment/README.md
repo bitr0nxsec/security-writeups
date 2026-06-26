@@ -59,6 +59,9 @@ Passive fingerprinting identified the following technologies:
 
 Version information was visible through the exposed debugging interface.
 
+<img width="1424" height="242" alt="image" src="https://github.com/user-attachments/assets/f613bf6f-f91d-4bbe-b0e6-f082aca0c3ad" />
+
+
 Although public CVEs exist for versions within the detected software range, **version identification alone is not sufficient to conclude exploitability**, therefore no exploitation attempts were made.
 
 ---
