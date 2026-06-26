@@ -102,6 +102,8 @@ Potential risks include:
 * Server environment reconnaissance
 * Reduced effort required during future attacks
 
+---
+
 <img width="1865" height="331" alt="image" src="https://github.com/user-attachments/assets/52f65767-4106-4aa2-ae70-b352708e10c1" />
 
 ---
