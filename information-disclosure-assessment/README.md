@@ -59,9 +59,6 @@ Passive fingerprinting identified the following technologies:
 
 Version information was visible through the exposed debugging interface.
 
-<img width="1424" height="242" alt="image" src="https://github.com/user-attachments/assets/f613bf6f-f91d-4bbe-b0e6-f082aca0c3ad" />
-
-
 Although public CVEs exist for versions within the detected software range, **version identification alone is not sufficient to conclude exploitability**, therefore no exploitation attempts were made.
 
 ---
@@ -84,6 +81,9 @@ The interface revealed information such as:
 * Stack traces
 * File paths
 * Execution timings
+
+  <img width="1424" height="242" alt="image" src="https://github.com/user-attachments/assets/6e0bf16d-f6d2-4ba2-8fbe-7022f5d72611" />
+
 
 While none of this immediately resulted in remote code execution or unauthorized access, it provides unnecessary reconnaissance data that could reduce an attacker's effort when identifying potential attack paths.
 
